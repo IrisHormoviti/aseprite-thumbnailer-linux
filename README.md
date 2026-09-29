@@ -1,4 +1,6 @@
 # Aseprite Thumbnailer for Linux
+<img width="1009" height="1022" alt="image" src="https://github.com/user-attachments/assets/709e9963-5422-4f1b-a3eb-ace6c68697ac" />
+
 > [!NOTE]
 > This has only been tested with Dolphin, I don't know how well it works with other file managers
 
