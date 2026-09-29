@@ -1,0 +1,6 @@
+#!/bin/sh
+aseprite -b "$1" --sheet-type packed --sheet "$2.png" >/dev/null 2>&1
+
+if [ -f "$2.png" ]; then
+	mv -f "$2.png" "$2"
+fi
