@@ -23,7 +23,7 @@ This can be done by opening a terminal and running:
 # Go to the folder where you cloned the project
 cd aseprite-thumbnailer-linux
 # Run setup script
-sh ./setup.sh`.
+sh setup.sh
 ```
 In dolphin, you might also be able to right click `setup.sh` and select "Run in Konsole"
 ### 3. Enter the path to your Aseprite binary
