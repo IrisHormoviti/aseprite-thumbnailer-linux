@@ -35,3 +35,6 @@ Type or paste the path and press enter.
 If using Dolphin, go to the menu > Configure > Configure Dolphin... > Interface > Previews, then enable "Aseprite Sprite".
 ### 5. Clean up
 Feel free to delete the `aseprite-thumbnailer-linux` folder, if everything works out, you don't need it anymore!
+
+## Issues
+If you find any issues, or it doesn't work for you, feel free to post an issue here on GitHub.
