@@ -31,10 +31,11 @@ In dolphin, you might also be able to right click `setup.sh` and select "Run in 
 ### 3. Enter the path to your Aseprite binary
 Instructions on how to do so will be displayed on your terminal.
 Type or paste the path and press enter.
+> [!NOTE]
+> If you ever move or rename your aseprite executable, you'll have to rerun the script.
 ### 4. Enable previews
 If using Dolphin, go to the menu > Configure > Configure Dolphin... > Interface > Previews, then enable "Aseprite Sprite".
 ### 5. Clean up
 Feel free to delete the `aseprite-thumbnailer-linux` folder, if everything works out, you don't need it anymore!
-
 ## Issues
 If you find any issues, or it doesn't work for you, feel free to post an issue here on GitHub.
